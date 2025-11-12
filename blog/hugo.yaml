@@ -13,7 +13,7 @@ params:
 
   homeInfoParams:
     Title: Welcome to the Cole Cloud
-    Content: My blog about tech I find intresting.
+    Content: My blog about tech I find interesting.
 
   socialIcons: # optional
     - name: "linkedin"
